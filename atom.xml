@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Octo Blogging]]></title>
+  <link href="http://mtbrgreg.github.com/atom.xml" rel="self"/>
+  <link href="http://mtbrgreg.github.com/"/>
+  <updated>2013-03-03T12:41:46-05:00</updated>
+  <id>http://mtbrgreg.github.com/</id>
+  <author>
+    <name><![CDATA[Gregory Bone]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
